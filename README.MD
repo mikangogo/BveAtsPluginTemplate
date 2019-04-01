@@ -3,6 +3,10 @@ The template code of AtsPlug-in for Bve Trainsim and other compatible stuff.
 
 wip
 
+## Requirements
+* CMake 3.10 or newer.
+* Microsoft Visual Studio (Windows)
+
 ## How to build
 * Windows 
   1. Run `Build.bat`.
