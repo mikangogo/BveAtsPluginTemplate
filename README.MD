@@ -1,6 +1,15 @@
-﻿## AtsPlugin Template for Bve Trainsim
+﻿## BveAtsPluginTemplate
+The template code of AtsPlug-in for Bve Trainsim and other compatible stuff.
 
 wip
+
+## How to build
+* Windows 
+  1. Run `Build.bat`.
+  1. Open the solution file in `build` folder.
+  1. Run Visual Studio.
+* Linux
+  1. Run `Build.sh`.
 
 Unlicense (Public Domain)
 ============================
