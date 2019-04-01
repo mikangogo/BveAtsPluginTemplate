@@ -1,4 +1,7 @@
-﻿#if defined(__cplusplus)
+﻿#ifndef BVE_ATS_PLUGIN_H_INCLUDED
+#define BVE_ATS_PLUGIN_H_INCLUDED
+
+#if defined(__cplusplus)
 extern "C"
 {
 #endif
@@ -34,3 +37,5 @@ extern "C"
 #if defined(__cplusplus)
 }
 #endif
+
+#endif  // BVE_ATS_PLUGIN_H_INCLUDED

@@ -1,4 +1,7 @@
-﻿//=============================
+﻿#ifndef ATS_PLUGIN_H_INCLUDED
+#define ATS_PLUGIN_H_INCLUDED
+
+//=============================
 // BVE ATS Plug-in Header File
 //
 //             Rock_On, mackoy
@@ -136,3 +139,5 @@ ATS_API void WINAPI SetSignal(int);
 
 // Called when the beacon data is received
 ATS_API void WINAPI SetBeaconData(ATS_BEACONDATA);
+
+#endif  // ATS_PLUGIN_H_INCLUDED
