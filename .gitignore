@@ -1,0 +1,6 @@
+*.*
+!/.gitignore
+!/src/*
+!/CMakelists.txt
+!/README.MD
+!/Build.*
